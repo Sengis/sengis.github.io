@@ -43,11 +43,12 @@
 .comparison-table {
     width: 100%;
     border-collapse: collapse;
+    border-color: #ffffff;
 }
 
 .comparison-table th,
 .comparison-table td {
-    border: 1px solid #000;
+    border: 1px solid #d2d0d0;
     padding: 8px;
     text-align: center;
 }
